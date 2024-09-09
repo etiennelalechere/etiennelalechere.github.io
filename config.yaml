@@ -1,5 +1,4 @@
 baseurl: /
-https://etiennelalechere.github.io/docs/index.html
 publishDir: docs
 languageCode: en-US
 title: A Hugo website
