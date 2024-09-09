@@ -1,5 +1,4 @@
 baseurl: /
-relativeURLs = true
 publishDir: docs
 languageCode: en-US
 title: A Hugo website
